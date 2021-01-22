@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, fellas. You might have seen my project, go check it out. Reach my a Josiah.Kushnerick@d11.org
 
 <!--
 **TBCGever/TBCGever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
